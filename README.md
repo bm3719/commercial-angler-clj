@@ -54,14 +54,13 @@ bare hands for which to assault fish. As you collect and sell catch, you'll be
 able to afford better weapons and ships. During these first few days, be
 careful not to attack creatures too much more powerful than you. Judging
 whether a creature is out of your league is part of being successful in the
-fishing industry. Use a sensible combination of knowledge of marine biology
-and an evaluation of your current  HP and equipment. Your character may
-occasionally react to creatures he finds particularly fearsome as well. If in
-doubt, simply continue patrolling - better to lose a few dollars on a prize
-catch than your life, after all. You may also flee from a battle not going
-your way. The quality of your vessel also limits how far out to sea you can
-go, so the lower level the ship, the lower the chance of meeting more powerful
-creatures.
+fishing industry. Use a sensible combination of knowledge of marine biology and
+an evaluation of your current HP and equipment. Your character may occasionally
+react to creatures he finds particularly fearsome as well. If in doubt, simply
+continue patrolling - better to lose a few dollars on a prize catch than your
+life, after all. You may also flee from a battle not going your way. The
+quality of your vessel also limits how far out to sea you can go, so the lower
+level the ship, the lower the chance of meeting more powerful creatures.
 
 For the chronically impatient, the `File | Quick Start' menu option will start
 you off with some money and decent equipment.
@@ -69,21 +68,21 @@ you off with some money and decent equipment.
 Seaport Services
 ----------------
 
-Should your ship sustain serious damage or your cargo hold be full of
-valuable fish, you should head back to port. Once in port, you will patch up
-any damage to your ship automatically. Afterwards, you can visit the Hyannis
-Cannery to exchange the fruits of your labor for US currency. Once you've
-collected enough, you can visit the Hyannis Shipyard where you can reinvest
-this money into your fishing enterprise. Here, you can upgrade or downgrade
-your ship or weapon, receiving credit on your purchase by exchanging your
-current equipment during the transaction.
+Should your ship sustain serious damage or your cargo hold be full of valuable
+fish, you should head back to port. Once in port, you will patch up any damage
+to your ship automatically. Afterwards, you can visit the Hyannis Cannery to
+exchange the fruits of your labor for US currency. Once you've collected
+enough, you can visit the Hyannis Shipyard where you can reinvest this money
+into your fishing enterprise. Here, you can upgrade or downgrade your ship or
+weapon, receiving credit on your purchase by exchanging your current equipment
+during the transaction.
 
 Open-Ended
 ----------
 
 Like most simulations, Commercial Angler doesn't have any pre-defined goals.
-Play all day and night nonstop to see how quickly you can get the best ship
-and weaponry available. Or, relax and bask in the endless blue pixels of the
+Play all day and night nonstop to see how quickly you can get the best ship and
+weaponry available. Or, relax and bask in the endless blue pixels of the
 northern Atlantic. You could open a text editor in another window and keep a
 captain's log of your adventures (both in-game and imaginary) or the types of
 existential musings that long, lonely days at sea often engender in an
@@ -94,21 +93,21 @@ Revision History
 ================
 
 Version 0.1: Initial release in C#.
+
 Version 0.2: Rewrite in Clojure.
 
 Notes
 =====
 
-Forthcoming features: Loading and saving your game, custom character naming.
+Changes for version 0.2:
+- Rewrite in Clojure.
+- Loading/saving your game.
+- An auto-play feature (maybe).
 
 Other possible future features: Improved graphics, RPG-like elements such as
 player levels and stats, end-game bosses, ability to eat fish, drop tables
 besides just corpses, confirmation beeps when buying stuff, uploading memorial
-files to a web-based CGI script, and maybe a rewrite in a different language.
-
-For those who can't figure it out: Yes, this isn't a serious game. It was just
-tossed together in a couple days to refresh my C# memory prior to a starting a
-new job.  I'll try to turn it into something actually fun someday, maybe.
+files to a web-based CGI script.
 
 Credits
 =======
