@@ -11,7 +11,7 @@ Overview
 ========
 
 Note: This version is still in progress.  See:
-[https://github.com/bm3719/commercial_angler](the old version in C#) for a
+[the old version in C#](https://github.com/bm3719/commercial_angler) for a
 working version in the meantime.
 
 Commercial Angler combines the excitement of deep sea fishing with progression
@@ -119,4 +119,4 @@ License
 =======
 
 Source code released under the BSD 3-Clause License. See the
-[http://opensource.org/licenses/BSD-3-Clause](full license text) for details.
+[full license text](http://opensource.org/licenses/BSD-3-Clause) for details.
