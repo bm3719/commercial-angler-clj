@@ -35,9 +35,9 @@
          (apply assoc schema))))
 
 (defn ingest-data
-  "Ingest a data file using a schema.  file is a CSV file with commented lines
-  starting with \"#\".  schema is a vector of single key/value pairs, with the
-  value being a transform function symbol." [file schema]
+  "Ingest a data file using a schema.  file is an encrypted CSV file with
+  commented lines starting with \"#\".  schema is a vector of single key/value
+  pairs, with the value being a transform function symbol." [file schema]
   (as-> (read-file file) $
     (s/split $ #"\n")
     (filter #(not (re-matches #"#.*" %)) $)
@@ -48,7 +48,7 @@
 
 (def character-schema
   [{:name 'identity}
-   {:money 'str->int}
+   {:money 'str->decimal}
    {:weapon 'str->int}
    {:ship 'str->int}])
 

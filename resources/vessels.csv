@@ -1,24 +1,24 @@
 #vessels
 #id,name,price,hold-cap,ship-hp,ac
-1,Wooden Log,0,15,4,0
-2,Rubber Tube,10,20,6,0
-3,Coracle,30,40,8,1
-4,Currach,65,75,32,2
-5,Inflatable Raft,120,180,40,2
-6,Handliner,350,200,48,4
-7,Dinghy,520,250,64,6
-8,Rigid Hull Inflatable,1750,380,96,10
-9,Sampan,2600,450,128,12
-10,Dhow,3800,500,144,16
-11,Junk,6600,650,160,18
-12,Squid Jigger,9000,800,192,22
-13,Troller,15500,1000,256,24
-14,Sternpicker,23000,1200,384,26
-15,Drum Seiner,30000,1400,448,30
-16,Gill Netter,32000,1500,512,32
-17,Purse Seiner,35000,1600,576,34
-18,Stern Trawler,68000,2000,704,40
-19,Outrigger Trawler,75000,2400,768,44
-20,Dredger,82000,2800,832,48
-21,Long Liner,87000,3200,896,50
-22,Atlantic Whaler,150000,4000,1024,54
+1,Wooden Log,0,15.0,4,0
+2,Rubber Tube,10,20.0,6,0
+3,Coracle,30,40.0,8,1
+4,Currach,65,75.0,32,2
+5,Inflatable Raft,120,180.0,40,2
+6,Handliner,350,200.0,48,4
+7,Dinghy,520,250.0,64,6
+8,Rigid Hull Inflatable,1750,380.0,96,10
+9,Sampan,2600,450.0,128,12
+10,Dhow,3800,500.0,144,16
+11,Junk,6600,650.0,160,18
+12,Squid Jigger,9000,800.0,192,22
+13,Troller,15500,1000.0,256,24
+14,Sternpicker,23000,1200.0,384,26
+15,Drum Seiner,30000,1400.0,448,30
+16,Gill Netter,32000,1500.0,512,32
+17,Purse Seiner,35000,1600.0,576,34
+18,Stern Trawler,68000,2000.0,704,40
+19,Outrigger Trawler,75000,2400.0,768,44
+20,Dredger,82000,2800.0,832,48
+21,Long Liner,87000,3200.0,896,50
+22,Atlantic Whaler,150000,4000.0,1024,54

@@ -17,7 +17,7 @@
     {:min-dmg 'str->int}
     {:max-dmg 'str->int}
     {:ac 'str->int}
-    {:weight 'str->int}
+    {:weight 'str->decimal}
     {:value 'str->decimal}]))
 
 (def vessels
@@ -26,7 +26,7 @@
    [{:id 'str->int}
     {:name 'identity}
     {:price 'str->int}
-    {:hold-cap 'str->int}
+    {:hold-cap 'str->decimal}
     {:ship-hp 'str->int}
     {:ac 'str->int}]))
 
