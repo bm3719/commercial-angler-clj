@@ -4,7 +4,8 @@
   :license {:name "BSD 3-clause License"
             :url "http://opensource.org/licenses/BSD-3-Clause"}
   :dependencies [[org.clojure/clojure "1.7.0"]
-                 [seesaw "1.4.5"]]
+                 [seesaw "1.4.5"]
+                 [lock-key "1.3.0"]]
   :main commercial-angler-clj.core
   :repl-options {:init-ns user}
   :global-vars {*print-length* 100}
