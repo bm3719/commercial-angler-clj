@@ -7,4 +7,4 @@
             [seesaw.font :as sf]
             [clojure.repl :refer [doc]]
             [clojure.string :as s]
-            [clojure.tools.namespace.repl :as repl]))
+            [clojure.tools.namespace.repl :refer [refresh]]))
