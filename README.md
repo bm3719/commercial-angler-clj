@@ -106,8 +106,9 @@ Changes for version 0.2:
 
 Other possible future features: Improved graphics, RPG-like elements such as
 player levels and stats, end-game bosses, ability to eat fish, drop tables
-besides just corpses, confirmation beeps when buying stuff, uploading memorial
-files to a web-based CGI script.
+besides just corpses, confirmation prompts when buying stuff, uploading
+memorial files to a web-based CGI script, changing damage calculations to a die
+roll system.
 
 Credits
 =======
