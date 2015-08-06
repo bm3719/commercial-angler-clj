@@ -16,7 +16,7 @@
 
 (defn write-file
   "Write string data to an encrypted file.  Will first encrypt data."
-  [s file]
+  [file s]
   (spit file (lk/encrypt-as-base64 s crypt-key)))
 
 (defn read-file
